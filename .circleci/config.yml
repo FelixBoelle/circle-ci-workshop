@@ -9,4 +9,4 @@ jobs:
           command: |
               gradle test
       - store_test_results:
-          path: /home/felix/files/PhD/Courses/praqma/circle-ci-workshop/test-results/
+          path: ~/test-results/
